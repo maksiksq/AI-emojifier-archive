@@ -1,4 +1,4 @@
-#Notice:
+# Notice:
 This moved to [this repo](https://github.com/maksiksq/AI-emojify)
 And I stopped working and paying for that repo as well, more details there.
 
